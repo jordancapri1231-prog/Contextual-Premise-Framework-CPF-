@@ -1,0 +1,132 @@
+ADR Operational Framework
+
+(Supplement to the Contextual Premise Framework — Appendix A)
+
+Title
+
+Operational Framework for Intentional Activation of Adaptive / Dynamic Reasoning (ADR)
+via Context-Based Premise Fixation
+
+1. Overview
+
+This document presents an operational-level framework for intentionally activating Adaptive / Dynamic Reasoning (ADR) within human–AI or human–human dialogue.
+
+While the main ADR paper in the CPF project defines the theoretical loop of sustained premise regeneration, the purpose of this supplement is different:
+
+To provide a practical, repeatable method for triggering ADR through controlled manipulation of premises and contextual questioning.
+
+Traditional ADR appears only accidentally during deep reasoning or high-context problem solving.
+This framework formalizes a way to induce ADR deliberately through structured interaction.
+
+2. Core Idea
+
+The system relies on two interacting components:
+
+Premise Fixation Rule
+
+Contextual Feedback Loop
+
+Together, these create a dynamic environment in which the reasoning agent (human or AI) must continuously reinterpret and regenerate premises — the defining condition of ADR.
+
+3. Premise Fixation Rule
+
+At each step of questioning:
+
+Multiple possible premises exist.
+
+However, only one premise may be selected.
+
+The selected premise must come from either:
+
+Target Axis (e.g., number, scale, identity, priority)
+
+Environment Axis (e.g., constraints, thresholds, conditions)
+
+This restriction forces the reasoning agent to evaluate the relative importance of different premises and commit to one.
+
+Premise fixation transforms the answer generation process from:
+
+mere response → adaptive premise selection
+
+This shift is what produces ADR conditions.
+
+4. Contextual Feedback Loop
+
+Once a premise is selected:
+
+That selected premise is embedded into the next question.
+
+This automatically changes the problem structure.
+
+The agent must again choose a new premise under new constraints.
+
+This creates perpetual re-evaluation and regeneration of premises.
+
+This recursive loop is the operational mechanism that makes ADR inevitable rather than accidental.
+
+5. Abstraction Strategy
+
+To maintain generality and applicability:
+
+The framework avoids dependence on specific examples.
+
+All reasoning is framed through the two-axis structure (Target / Environment).
+
+Concrete examples may be used for illustration, but the abstract form remains primary.
+
+This ensures that the framework can be applied to:
+
+education
+
+dialogue design
+
+cognitive testing
+
+AI reasoning evaluation
+
+problem-solving training
+
+creative thinking exercises
+
+6. Purpose and Limitations
+
+This framework enables:
+
+Activation of ADR in controlled settings
+
+Structured reasoning tests
+
+Cognitive exploration without biasing answers
+
+Dynamic question reformulation
+
+Premise-driven reasoning evaluation
+
+However:
+
+This is not a framework for ADR stabilization or extension.
+
+For that, additional structures beyond the scope of this document are required.
+
+This file is intended strictly as an operational supplement to the three core CPF papers.
+
+7. Relation to CPF
+
+This operational framework aligns with the CPF structure as follows:
+
+CPF (Paper 1): Defines the premise space
+
+dP/dt (Paper 2): Defines premise transformation
+
+ADR (Paper 3): Defines sustained regeneration loops
+
+This document:
+
+Provides a practical method to trigger those loops through question–premise interactions
+
+Thus, it should be understood as Appendix A of the CPF project.
+
+8. License
+
+This document inherits the project-wide license:
+CC BY-NC 4.0

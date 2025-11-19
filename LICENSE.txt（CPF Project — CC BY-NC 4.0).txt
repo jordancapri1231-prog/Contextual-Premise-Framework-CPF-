@@ -1,0 +1,49 @@
+========================================================
+CPF Project License (CC BY-NC 4.0)
+========================================================
+
+This project (Contextual Premise Framework — CPF,
+including Paper 1, Paper 2, and Paper 3)
+is released under the Creative Commons
+Attribution–NonCommercial 4.0 International License.
+(CC BY-NC 4.0)
+
+You are free to:
+• Share — copy and redistribute the material in any medium or format  
+• Adapt — remix, transform, and build upon the material  
+
+Under the following terms:
+• Attribution — You must give appropriate credit, provide a link to the license,
+  and indicate if changes were made.  
+• NonCommercial — You may not use the material for commercial purposes.  
+• No additional restrictions — You may not apply legal or technological
+  measures that restrict others beyond the license terms.  
+
+Full license text:
+https://creativecommons.org/licenses/by-nc/4.0/
+
+========================================================
+Author’s Notice
+========================================================
+
+1. This license covers only the CPF materials contained in this project:
+   the premise-layer structure (Paper 1),
+   the premise regeneration formulation (Paper 2),
+   and the ADR loop model (Paper 3).
+
+2. Academic use, discussion, and derivative research based on CPF are welcome,
+   as long as they remain within the conceptual scope defined in these papers.
+
+3. Any commercial, applied, or institutional use
+   requires prior written consent from the author.
+
+========================================================
+Contact
+========================================================
+
+For academic inquiries or collaboration:
+(Use OSF messaging; email intentionally omitted for spam prevention.)
+
+========================================================
+End of License
+========================================================

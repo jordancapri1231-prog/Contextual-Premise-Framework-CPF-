@@ -1,0 +1,91 @@
+Contextual Premise Framework (CPF)
+Project Overview
+
+The Contextual Premise Framework (CPF) is a conceptual model describing
+the structural space of premises underlying intelligent judgment.  
+This project provides the three core papers that define CPF and explain
+how premise structures are organized, transformed, and sustained over time.
+
+---
+
+## 1. Purpose of the Project
+Judgment and interpretation rely on multiple forms of underlying premises.
+These premises are often implicit, layered, and interconnected.  
+CPF aims to provide a clear structural vocabulary and a unified description
+of how such premises are arranged and how they support reasoning.
+
+This project offers:
+- A structural classification of premises,
+- A minimal mathematical formulation of premise regeneration,
+- A loop mechanism explaining how premise updating remains active.
+
+---
+
+## 2. Components of the Framework
+
+### Paper 1 — Structural Model (CPF)
+Defines the premise space as a layered structure, including:
+- existential, implicit, causal, situational, role, motivational,
+  and action premises.
+
+The paper also introduces:
+- non-linear arrangement of layers,
+- topological relations,
+- adjacency and accessibility patterns.
+
+This serves as the foundation of the entire framework.
+
+### Paper 2 — Premise Regeneration (dP/dt)
+Formalizes cognition as the rate of premise redefinition.
+The paper introduces three basic relations:
+
+- Cognition = dP/dt  
+- P = g(P_prev, Δ)  
+- Δ = h(∇P_unknown)
+
+These describe how premise states evolve over time
+through discrepancy-driven regeneration.
+
+### Paper 3 — ADR (Adaptive/Dynamic Reasoning)
+Presents a minimal loop model explaining sustained premise updating.
+The ADR process:
+
+1. unknown-region variation generates discrepancy (Δ),  
+2. Δ leads to premise regeneration,  
+3. regenerated premises modify unknown regions,  
+4. new Δ is generated.
+
+This loop accounts for continuous cognitive updating.
+
+---
+
+## 3. Intended Academic Use
+The CPF materials are released for academic reading, citation,
+and theoretical extension, provided the work remains within the
+conceptual scope defined in the three papers.
+
+The project welcomes:
+- scholarly analysis,
+- conceptual extensions,
+- comparative theoretical work,
+- discussion within cognitive science, AI safety,
+  philosophy of reasoning, and related fields.
+
+Institutional or commercial use requires prior written consent
+(see LICENSE.txt).
+
+---
+
+## 4. Files Included
+- CPF_Paper1.pdf  
+- Paper2_dPdt.pdf  
+- Paper3_ADR.pdf  
+- LICENSE.txt  
+- README.md  
+
+---
+
+## 5. Contact
+For inquiries or collaboration,  
+please use OSF project messaging.
+
