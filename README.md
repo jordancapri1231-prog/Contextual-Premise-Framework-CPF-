@@ -77,6 +77,10 @@ CPF stands as an independent, published theoretical model.
 Creative Commons — CC BY-NC 4.0
 Non-commercial use permitted with attribution.
 
+Japanese versions of all three CPF papers are included in the folder:
+`/CPF_Papers_Japanese/`
+
+
 コンテクスチュアル・プリミス・フレームワーク（CPF）
 
 公開理論セット（構造モデル＋dP/dt＋ADR）
@@ -151,3 +155,7 @@ CPF が内部要素を示唆することもありません。
 📜 ライセンス
 
 Creative Commons — CC BY-NC 4.0
+
+CPF論文の日本語版は以下のフォルダにまとめてあります：
+`/CPF_Papers_Japanese/`
+
